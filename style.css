@@ -1,0 +1,29 @@
+h1 {
+	color: rgb(120, 49, 200);
+}
+
+h3 {
+	color: rgb(120, 49, 200);
+}
+
+body {
+	background-image:url('облака.png');
+	background-repeat: no-repeat;
+	background-position: bottom;
+	background-attachment: fixed;
+	background-size: cover;
+
+	font-family: Courier New;
+	color: rgb(17, 68, 133);
+	font-weight: 570;
+	
+}
+
+.green {
+	color: green;
+}
+
+.red {
+	color: red;
+}
+
